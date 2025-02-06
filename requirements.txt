@@ -1,0 +1,6 @@
+requests
+telebot
+Flask
+threading
+json
+concurrent.futures
