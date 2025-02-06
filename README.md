@@ -16,12 +16,14 @@ FaucetEarnerBot is a Telegram bot and Flask web application that automates accou
 ```bash
 git clone https://github.com/hamzaazer/FaucetEarnerBot.git
 cd FaucetEarnerBot
-###2️⃣ Install Dependencies
+
+### 2️⃣ Install Dependencies
 bash
 Copier
 Modifier
 pip install -r requirements.txt
-###3️⃣ Configure the Bot
+
+### 3️⃣ Configure the Bot
 Edit the BOT_TOKEN variable in main.py with your Telegram bot token.
 
 ###4️⃣ Run the Application
