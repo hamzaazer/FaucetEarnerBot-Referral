@@ -32,8 +32,10 @@ Edit the BOT_TOKEN variable in main.py with your Telegram bot token.
 bash
 Copier
 Modifier
-python main.py
+python app.py
 The Flask server will start on http://0.0.0.0:5000
+### Note 
+Use paid proxy to avoid bloking.
 
 ## 🔧 Usage
 Start the Flask web interface
