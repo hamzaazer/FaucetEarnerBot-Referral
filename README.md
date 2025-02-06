@@ -13,7 +13,7 @@ FaucetEarnerBot is a Telegram bot and Flask web application that automates accou
 ## 📦 Installation  
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/hamzaazer/FaucetEarnerBot.git
+git clone https://github.com/hamzaazer/FaucetEarnerBot-Referral.git
 cd FaucetEarnerBot
 ```
 
