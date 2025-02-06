@@ -11,47 +11,43 @@ FaucetEarnerBot is a Telegram bot and Flask web application that automates accou
 - **Multi-threading** for improved efficiency  
 
 ## 📦 Installation  
-
 ### 1️⃣ Clone the Repository  
 ```bash
 git clone https://github.com/hamzaazer/FaucetEarnerBot.git
 cd FaucetEarnerBot
+```
 
 ### 2️⃣ Install Dependencies
-bash
+
 Copier
-Modifier
+
+```python
 pip install -r requirements.txt
+```
 
 ### 3️⃣ Configure the Bot
 Edit the BOT_TOKEN variable in main.py with your Telegram bot token.
 
-###4️⃣ Run the Application
+### 4️⃣ Run the Application
 bash
 Copier
 Modifier
 python main.py
 The Flask server will start on http://0.0.0.0:5000
 
-##🔧 Usage
+## 🔧 Usage
 Start the Flask web interface
 Enter your Telegram ID and FaucetEarner referral code
 The bot will begin registering accounts using proxies
 Credentials for created accounts will be sent via Telegram
-##⚠️ Disclaimer
+## ⚠️ Disclaimer
 This project is for educational purposes only. Use it responsibly.
 
 ##📜 License
 This project is licensed under the MIT License.
 
-pgsql
+vbnet
 Copier
 Modifier
 
-##This README provides all necessary details for setup, usage, and legal disclaimers. Let me know if you need any modifications! 🚀
-
-
-
-
-
-
+This version keeps everything in one block while maintaining readability. Let me know if you need furthe
